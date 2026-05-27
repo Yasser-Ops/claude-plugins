@@ -1,6 +1,6 @@
 {
   "$schema": "https://cdn.jsdelivr.net/npm/@anthropic-ai/claude-code@latest/marketplace.schema.json",
-  "name": "claude-plugins",
+  "name": "yasser-ops",
   "description": "Yasser's personal Claude Code plugin marketplace.",
   "owner": { "name": "Yasser", "url": "https://github.com/Yasser-Ops" },
   "plugins": [
