@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/npm/@anthropic-ai/claude-code@latest/marketplace.schema.json",
+  "name": "claude-plugins",
+  "description": "Yasser's personal Claude Code plugin marketplace.",
+  "owner": { "name": "Yasser", "url": "https://github.com/Yasser-Ops" },
+  "plugins": [
+    {
+      "name": "nextjs-supabase-paddle",
+      "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel. Bundles scaffolding skills, code-review skills, and MCP integrations.",
+      "author": { "name": "Yasser" },
+      "category": "development",
+      "source": "./nextjs-supabase-paddle"
+    }
+  ]
+}
