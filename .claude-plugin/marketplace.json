@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "nextjs-supabase-paddle",
-      "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel. Bundles scaffolding skills, code-review skills, and MCP integrations.",
+      "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel. Bundles scaffolding skills, a survey-first CMS/admin retrofit skill, code-review skills, and MCP integrations.",
       "author": { "name": "Yasser" },
       "category": "development",
       "source": "./nextjs-supabase-paddle"
