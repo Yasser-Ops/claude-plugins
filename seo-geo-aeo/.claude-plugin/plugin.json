@@ -1,0 +1,7 @@
+{
+  "name": "seo-geo-aeo",
+  "version": "1.0.0",
+  "description": "SEO, GEO, and AEO website audit skill. Crawls a site and produces scored findings across traditional SEO, Generative Engine Optimization, and Answer Engine Optimization with a downloadable Word + PDF report.",
+  "author": { "name": "SNLabat", "url": "https://github.com/SNLabat/SEO-GEO-AEO-Skill" },
+  "keywords": ["seo", "geo", "aeo", "audit", "search", "generative", "answer-engine", "perplexity", "featured-snippet"]
+}

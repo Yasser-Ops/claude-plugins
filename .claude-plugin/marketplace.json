@@ -10,6 +10,13 @@
       "author": { "name": "Yasser" },
       "category": "development",
       "source": "./nextjs-supabase-paddle"
+    },
+    {
+      "name": "seo-geo-aeo",
+      "description": "SEO, GEO, and AEO website audit skill. Crawls a site and produces scored findings across traditional SEO, Generative Engine Optimization, and Answer Engine Optimization with a downloadable Word + PDF report.",
+      "author": { "name": "SNLabat", "url": "https://github.com/SNLabat/SEO-GEO-AEO-Skill" },
+      "category": "marketing",
+      "source": "./seo-geo-aeo"
     }
   ]
 }
