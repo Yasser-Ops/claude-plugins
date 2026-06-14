@@ -1,0 +1,7 @@
+{
+  "name": "nextjs-supabase-kit",
+  "version": "0.3.0",
+  "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Vercel. Bundles scaffolding skills, a survey-first CMS/admin retrofit skill, a provider-agnostic payment-integration skill (Stripe, Paddle, Lemon Squeezy, Polar, Whop), code-review skills, and MCP integrations for GitHub, Supabase, Vercel, and Chrome DevTools.",
+  "author": { "name": "Yasser" },
+  "keywords": ["nextjs", "supabase", "payments", "stripe", "paddle", "lemonsqueezy", "polar", "whop", "turnstile", "vercel", "shadcn", "cms", "admin-panel"]
+}

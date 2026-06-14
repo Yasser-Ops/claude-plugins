@@ -1,16 +1,16 @@
-# nextjs-supabase-paddle
+# nextjs-supabase-kit
 
 Personal Claude plugin encoding a single web-dev workflow across every Next.js project:
 
 - **Framework**: Next.js (App Router) + TypeScript strict + pnpm
 - **Database & Auth**: Supabase (queried via `@supabase/supabase-js` directly)
 - **Bot protection**: Cloudflare Turnstile
-- **Payments**: Paddle Billing (v2) — Merchant of Record
+- **Payments**: provider-agnostic — Stripe, Paddle, Lemon Squeezy, Polar, or Whop (chosen per project)
 - **UI**: Tailwind + shadcn/ui
 - **Testing**: Vitest + Playwright
 - **Deployment**: Vercel
 
-## Skills (6)
+## Skills (9)
 
 | Skill | Purpose |
 |---|---|
@@ -19,6 +19,9 @@ Personal Claude plugin encoding a single web-dev workflow across every Next.js p
 | `supabase-migration` | New migration + type regeneration |
 | `rls-policy` | Write or audit RLS policies |
 | `turnstile-form` | Form + Turnstile + server-side verify |
+| `optimize-images` | Convert images to WebP + unify aspect ratios |
+| `cms-retrofit` | Survey-first CMS/admin layer onto an existing site |
+| `payment-integration` | Pick a payment provider, then scaffold checkout + webhook |
 | `paddle-webhook` | Paddle webhook handler w/ signature verify |
 
 ## MCP integrations (4)

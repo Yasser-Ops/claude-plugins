@@ -5,11 +5,11 @@
   "owner": { "name": "Yasser", "url": "https://github.com/Yasser-Ops" },
   "plugins": [
     {
-      "name": "nextjs-supabase-paddle",
-      "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel. Bundles scaffolding skills, a survey-first CMS/admin retrofit skill, code-review skills, and MCP integrations.",
+      "name": "nextjs-supabase-kit",
+      "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Vercel. Bundles scaffolding skills, a survey-first CMS/admin retrofit skill, a provider-agnostic payment-integration skill (Stripe, Paddle, Lemon Squeezy, Polar, Whop), code-review skills, and MCP integrations.",
       "author": { "name": "Yasser" },
       "category": "development",
-      "source": "./nextjs-supabase-paddle"
+      "source": "./nextjs-supabase-kit"
     },
     {
       "name": "seo-geo-aeo",

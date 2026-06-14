@@ -1,7 +1,0 @@
-{
-  "name": "nextjs-supabase-paddle",
-  "version": "0.2.0",
-  "description": "Personal web-dev workflow for Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel. Bundles scaffolding skills, a survey-first CMS/admin retrofit skill, code-review skills, and MCP integrations for GitHub, Supabase, Vercel, and Chrome DevTools.",
-  "author": { "name": "Yasser" },
-  "keywords": ["nextjs", "supabase", "paddle", "turnstile", "vercel", "shadcn", "cms", "admin-panel"]
-}

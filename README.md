@@ -12,7 +12,7 @@ claude plugin marketplace add https://github.com/Yasser-Ops/claude-plugins.git
 
 | Plugin | Description |
 |---|---|
-| [nextjs-supabase-paddle](./nextjs-supabase-paddle) | Next.js (App Router) + Supabase + Cloudflare Turnstile + Paddle Billing + Vercel workflow |
+| [nextjs-supabase-kit](./nextjs-supabase-kit) | Next.js (App Router) + Supabase + Cloudflare Turnstile + Vercel workflow — scaffolding, CMS retrofit, provider-agnostic payments (Stripe/Paddle/Lemon Squeezy/Polar/Whop) |
 
 ## Adding a new plugin
 
